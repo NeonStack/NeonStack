@@ -10,3 +10,4 @@
   </a>
 </p>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/NeonStack/NeonStack/output/github-contribution-grid-snake-dark.svg)
