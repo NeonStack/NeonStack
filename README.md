@@ -39,8 +39,6 @@
 </h2>
 
 <div>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=NeonStack&theme=gotham&hide_border=true"/>
-  <br/><br/>
   <img width="390" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NeonStack&show_icons=true&theme=gotham&hide_border=true&count_private=true"/>
 </div>
 
