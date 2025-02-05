@@ -22,7 +22,7 @@
 <br/>
 
 <h2>
-  🛠️ My Favorite Tech Stack
+  🛠️ Tech Stack
 </h2>
 
 <div>
