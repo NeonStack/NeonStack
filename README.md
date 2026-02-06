@@ -35,17 +35,6 @@
 <br/>
 
 <h2>
-  📊 GitHub Stats
-</h2>
-
-<div>
-  <img width="390" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NeonStack&show_icons=true&theme=gotham&hide_border=true&count_private=true"/>
-</div>
-
-<br/>
-<br/>
-
-<h2>
   🐍 Contribution Graph
 </h2>
 
@@ -54,27 +43,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeonStack/NeonStack/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NeonStack/NeonStack/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<br/>
-<br/>
-
-<h2>
-  🌟 Featured Projects
-</h2>
-
-<div align="center">
-  <a href="https://github.com/NeonStack/JOMS-SCG-Dress-Shoppe">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeonStack&repo=JOMS-SCG-Dress-Shoppe&theme=gotham&hide_border=true" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/NeonStack/OLFU-QUIZ-CONSOLE">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeonStack&repo=OLFU-QUIZ-CONSOLE&theme=gotham&hide_border=true" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/NeonStack/neonstack.github.io">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NeonStack&repo=neonstack.github.io&theme=gotham&hide_border=true" />
-  </a>
-</div>
 
 <br/>
 <br/>
